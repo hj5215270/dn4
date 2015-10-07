@@ -1,0 +1,77 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1 (0x1)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=CN, ST=SC, L=Chengdu, O=InHand Networks, OU=DeviceTouch, CN=DeviceTouch/name=DeviceTouch/emailAddress=devicecloud@inhand.com.cn
+        Validity
+            Not Before: Nov  5 11:49:38 2013 GMT
+            Not After : Nov  3 11:49:38 2023 GMT
+        Subject: C=CN, ST=SC, L=Chengdu, O=InHand Networks, OU=DeviceTouch, CN=server/name=DeviceTouch/emailAddress=devicecloud@inhand.com.cn
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:b4:e2:5e:1e:91:15:6f:66:de:c5:e2:5e:94:a5:
+                    bf:2d:ab:4c:29:be:19:d1:16:0e:68:d5:9d:da:51:
+                    b5:0e:0d:1b:87:be:62:3a:36:e9:45:6f:a8:fe:70:
+                    28:0e:a7:a4:67:50:91:79:1f:b5:e1:b2:a4:ba:a7:
+                    4c:02:9d:2d:1d:14:1c:59:88:a7:5a:bb:5a:1f:93:
+                    00:ed:6f:75:e3:f2:df:8c:11:a6:6e:0f:3d:43:bb:
+                    5f:20:df:1f:3a:4a:f5:af:c8:02:08:6c:9e:20:59:
+                    22:70:7d:6e:bc:ff:b7:28:f3:87:cb:d5:59:b4:8c:
+                    29:15:db:87:94:70:a8:98:69
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Cert Type: 
+                SSL Server
+            Netscape Comment: 
+                Easy-RSA Generated Server Certificate
+            X509v3 Subject Key Identifier: 
+                09:39:89:E4:E2:58:70:53:89:C8:4E:CA:C2:F2:B1:14:C6:58:17:7C
+            X509v3 Authority Key Identifier: 
+                keyid:B9:BD:39:B5:91:42:94:A9:9B:62:38:8F:ED:CB:12:90:DA:EA:7A:DF
+                DirName:/C=CN/ST=SC/L=Chengdu/O=InHand Networks/OU=DeviceTouch/CN=DeviceTouch/name=DeviceTouch/emailAddress=devicecloud@inhand.com.cn
+                serial:D4:CD:3A:DD:24:26:34:02
+
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication
+            X509v3 Key Usage: 
+                Digital Signature, Key Encipherment
+    Signature Algorithm: sha1WithRSAEncryption
+         a1:a2:25:84:3f:c9:ce:9f:19:c3:6a:af:79:1c:4f:ab:72:8e:
+         a3:81:f8:36:95:90:9f:97:e2:b6:4b:73:7c:fa:7a:76:7e:2e:
+         88:b4:e8:38:4e:08:50:ec:97:d0:de:c9:8a:b2:99:08:9b:e8:
+         8c:cf:b6:ed:dc:1b:7a:d8:77:4a:3d:a5:93:a4:59:2d:54:53:
+         34:9b:a2:c5:0c:37:1a:ce:f8:68:8b:95:76:68:d3:c4:96:ce:
+         f4:a1:28:79:bb:99:7c:71:ce:d7:6f:06:27:de:6a:49:00:7b:
+         a9:94:d9:f6:5b:1b:b2:bc:05:46:13:89:df:fe:b2:55:c7:c6:
+         0b:92
+-----BEGIN CERTIFICATE-----
+MIIEXDCCA8WgAwIBAgIBATANBgkqhkiG9w0BAQUFADCBsjELMAkGA1UEBhMCQ04x
+CzAJBgNVBAgTAlNDMRAwDgYDVQQHEwdDaGVuZ2R1MRgwFgYDVQQKEw9JbkhhbmQg
+TmV0d29ya3MxFDASBgNVBAsTC0RldmljZVRvdWNoMRQwEgYDVQQDEwtEZXZpY2VU
+b3VjaDEUMBIGA1UEKRMLRGV2aWNlVG91Y2gxKDAmBgkqhkiG9w0BCQEWGWRldmlj
+ZWNsb3VkQGluaGFuZC5jb20uY24wHhcNMTMxMTA1MTE0OTM4WhcNMjMxMTAzMTE0
+OTM4WjCBrTELMAkGA1UEBhMCQ04xCzAJBgNVBAgTAlNDMRAwDgYDVQQHEwdDaGVu
+Z2R1MRgwFgYDVQQKEw9JbkhhbmQgTmV0d29ya3MxFDASBgNVBAsTC0RldmljZVRv
+dWNoMQ8wDQYDVQQDEwZzZXJ2ZXIxFDASBgNVBCkTC0RldmljZVRvdWNoMSgwJgYJ
+KoZIhvcNAQkBFhlkZXZpY2VjbG91ZEBpbmhhbmQuY29tLmNuMIGfMA0GCSqGSIb3
+DQEBAQUAA4GNADCBiQKBgQC04l4ekRVvZt7F4l6Upb8tq0wpvhnRFg5o1Z3aUbUO
+DRuHvmI6NulFb6j+cCgOp6RnUJF5H7XhsqS6p0wCnS0dFBxZiKdau1ofkwDtb3Xj
+8t+MEaZuDz1Du18g3x86SvWvyAIIbJ4gWSJwfW68/7co84fL1Vm0jCkV24eUcKiY
+aQIDAQABo4IBgzCCAX8wCQYDVR0TBAIwADARBglghkgBhvhCAQEEBAMCBkAwNAYJ
+YIZIAYb4QgENBCcWJUVhc3ktUlNBIEdlbmVyYXRlZCBTZXJ2ZXIgQ2VydGlmaWNh
+dGUwHQYDVR0OBBYEFAk5ieTiWHBTichOysLysRTGWBd8MIHnBgNVHSMEgd8wgdyA
+FLm9ObWRQpSpm2I4j+3LEpDa6nrfoYG4pIG1MIGyMQswCQYDVQQGEwJDTjELMAkG
+A1UECBMCU0MxEDAOBgNVBAcTB0NoZW5nZHUxGDAWBgNVBAoTD0luSGFuZCBOZXR3
+b3JrczEUMBIGA1UECxMLRGV2aWNlVG91Y2gxFDASBgNVBAMTC0RldmljZVRvdWNo
+MRQwEgYDVQQpEwtEZXZpY2VUb3VjaDEoMCYGCSqGSIb3DQEJARYZZGV2aWNlY2xv
+dWRAaW5oYW5kLmNvbS5jboIJANTNOt0kJjQCMBMGA1UdJQQMMAoGCCsGAQUFBwMB
+MAsGA1UdDwQEAwIFoDANBgkqhkiG9w0BAQUFAAOBgQChoiWEP8nOnxnDaq95HE+r
+co6jgfg2lZCfl+K2S3N8+np2fi6ItOg4TghQ7JfQ3smKspkIm+iMz7bt3Bt62HdK
+PaWTpFktVFM0m6LFDDcazvhoi5V2aNPEls70oSh5u5l8cc7XbwYn3mpJAHuplNn2
+WxuyvAVGE4nf/rJVx8YLkg==
+-----END CERTIFICATE-----

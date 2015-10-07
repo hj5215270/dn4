@@ -1,0 +1,1 @@
+V	231103114938Z		01	unknown	/C=CN/ST=SC/L=Chengdu/O=InHand Networks/OU=DeviceTouch/CN=server/name=DeviceTouch/emailAddress=devicecloud@inhand.com.cn
